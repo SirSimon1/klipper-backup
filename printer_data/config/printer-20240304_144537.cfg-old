@@ -1,10 +1,4 @@
-########Happy-Hare / Tradrack integration###################
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
-[include mmu/optional/mmu_menu.cfg]
 [include shell_command.cfg]
-
-
 # This file contains common pin mappings for the BIGTREETECH SKR mini
 # E3 v2.0. To use this config, the firmware should be compiled for the
 # STM32F103 with a "28KiB bootloader" and USB communication. Also,
